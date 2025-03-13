@@ -1,7 +1,3 @@
-# Life-Expectancy-Analysis
-
-
-
 
 
 # Life Expectancy and Air Quality Analysis
