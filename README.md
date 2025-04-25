@@ -51,3 +51,16 @@ The dataset for this project consists of country-level data on life expectancy a
 
 The data will be cleaned and preprocessed to handle missing values and inconsistencies. Outliers will be identified and managed to ensure accurate analysis. This dataset provides a solid foundation for exploring the impact of environmental conditions on human lifespan.
 
+Hypotheses
+
+In this project, we aim to explore the relationship between air quality and life expectancy across different countries. The following hypotheses are investigated:
+	•	Null Hypothesis (H₀):
+There is no statistically significant relationship between air quality (as measured by the Air Quality Index, AQI) and life expectancy. Variations in AQI do not meaningfully impact the average life expectancy across countries.
+	•	Alternative Hypothesis (H₁):
+There is a statistically significant relationship between air quality and life expectancy. Specifically:
+	•	H₁a: Higher AQI values (worse air quality) are associated with lower life expectancy.
+	•	H₁b: Lower AQI values (better air quality) are associated with higher life expectancy.
+	•	H₁c: After controlling for economic and healthcare-related variables, air quality remains a significant predictor of life expectancy.
+
+Through statistical analysis and modeling, we seek to either reject the null hypothesis or provide evidence supporting the alternative hypothesis.
+
